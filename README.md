@@ -14,18 +14,20 @@ A responsive, easy-to-use resume builder that helps users create professional re
 ## 🛠️ Tech Stack
 
 ### 🎯 Frontend
-- ⚛️ **React.js** – Component-based UI for dynamic and interactive interface
-- ⚡ **Vite** – Lightning-fast development environment and bundler
-- 🎨 **Tailwind CSS** – Utility-first CSS framework for modern styling
+- React.js  
+- Vite  
+- Tailwind CSS  
 
 ### 🧩 Backend
-- 🛠️ **Node.js + Express.js** – Server-side logic and RESTful API handling
-- 📜 **Strapi CMS** – Headless CMS for managing content and API endpoints
+- Node.js  
+- Express.js  
+- Strapi CMS  
 
 ### 🗃️ Database
-- 🐘 **PostgreSQL** – Robust relational database
-- ☁️ **Neon.tech** – Cloud-hosted PostgreSQL with scalable backend support
+- PostgreSQL  
+- Neon.tech  
 
 ### 🤖 AI Integration
-- 🤖 **Gemini API** – Used for generating personalized resume content and scoring
-- 🧠 **NLP Models** – Natural Language Processing for skill matching and suggestions
+- Gemini API  
+- NLP Models  
+
