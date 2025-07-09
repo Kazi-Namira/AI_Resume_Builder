@@ -1,4 +1,4 @@
-# 🧠 AI Resume Builder
+# 🧠📄 AI Resume Builder
 
 A responsive, easy-to-use resume builder that helps users create professional resumes directly in the browser.
 
@@ -14,20 +14,19 @@ A responsive, easy-to-use resume builder that helps users create professional re
 ## 🛠️ Tech Stack
 
 ### 🎯 Frontend
-- React.js  
-- Vite  
-- Tailwind CSS  
+- ⚛️ React.js  
+- ⚡ Vite  
+- 🎨 Tailwind CSS  
 
 ### 🧩 Backend
-- Node.js  
-- Express.js  
-- Strapi CMS  
+- 🟢 Node.js  
+- 🚂 Express.js  
+- 📦 Strapi CMS  
 
 ### 🗃️ Database
-- PostgreSQL  
-- Neon.tech  
+- 🐘 PostgreSQL  
+- ☁️ Neon.tech  
 
 ### 🤖 AI Integration
-- Gemini API  
-- NLP Models  
-
+- 🤖 Gemini API  
+- 🧠 NLP Models  
